@@ -1,2 +1,2 @@
-# II_ContarVocales
+# FP_ContarVocales
 Pasándose una ristra por parámetro, decir cuántas vocales contiene dicha ristra.
